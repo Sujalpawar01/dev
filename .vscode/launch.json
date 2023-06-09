@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Sujal/OneDrive/Desktop/dev",
-      "program": "c:/Users/Sujal/OneDrive/Desktop/dev/build/Debug/outDebug",
+      "cwd": "c:/Users/PRANJAL/Desktop/dev/dev",
+      "program": "c:/Users/PRANJAL/Desktop/dev/dev/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
